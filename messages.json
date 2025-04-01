@@ -1,0 +1,38 @@
+{
+  "registration": [
+    "BLOODBATH registration is open! React \ud83c\udf7b to join. REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "Ready to bleed? Hit \ud83c\udf7b and enter the arena. REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "One map. No second chances. Pure carnage. React \ud83c\udf7b to enter. REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "It\u2019s that time again... React \ud83c\udf7b to sign your fate in the Bo1-Bloodbath! REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "\ud83d\udd79\ufe0f This Saturday, we fight for blood. React \ud83c\udf7b if you're in. REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "\ud83e\ude93 Dreadful Duels looms. Only the brave React \ud83c\udf7b. REGISTRATION CLOSES FRIDAY 9PM SAST!",
+    "\ud83e\udde0 React now with \ud83c\udf7b \u2014 or be forgotten in silence. REGISTRATION CLOSES FRIDAY 9PM SAST!"
+  ],
+  "start": [
+    "\ud83d\udd14 Let the blood spill. Matches begin now.",
+    "\u2694\ufe0f Brackets are set. Get your head into the game or die trying.",
+    "\ud83d\udd25 BLOODBATH ignites \u2014 one chance, one life.",
+    "\ud83d\udea8 The arena is live. No turning back now.",
+    "\ud83d\udd79\ufe0f Weapons ready. Minds sharp. This is BLOODBATH.",
+    "\ud83d\udca5 The first kill decides the tempo... Begin!",
+    "\ud83e\udea6 Die fast or win fast. There will be no compromise Let's go."
+  ],
+  "winner": [
+    "\ud83c\udfc6 {winner} has emerged victorious from the BLOODBATH!",
+    "\ud83e\ude78 {winner} stands alone atop the corpses. Doom stands before you!",
+    "\ud83c\udfaf Precision. Power. Might. {winner} had it all.",
+    "\ud83d\udd2a {winner} shredded through the bracket like tissue, the muscle tissue of their enemies.",
+    "\ud83d\ude80 {winner} wins the BLOODBATH \u2014 flawless or lucky? Next season we shall figure this out.",
+    "\u26a1 No one could stop {winner}. We don't care what you think, no rematches!",
+    "\ud83d\udc80 BLOODBATH bows to {winner} \u2014 for now..."
+  ],
+  "season_complete": [
+    "\ud83c\udf0d Every battleground has seen blood. Season complete.",
+    "\ud83d\udd01 The pool resets. The BLOODBATH starts anew.",
+    "\ud83e\udde8 All maps conquered. Blood was spilled in every corner.",
+    "\u26b0\ufe0f That\u2019s it. All arenas exhausted. The next era begins.",
+    "\ud83c\udf00 The wheel of maps turns again \u2014 reshuffling pain.",
+    "\ud83d\udcdc This season\u2019s scroll closes. The next will write itself in blood.",
+    "\ud83d\udd25 Every inch of destruction explored. Prepare for round two."
+  ]
+}

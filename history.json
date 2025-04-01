@@ -1,0 +1,21 @@
+{
+  "tournament_winners": [
+    "<@274916558474838016>",
+    "<@436893069271629825>"
+  ],
+  "player_stats": {
+    "<@274916558474838016>": {
+      "wins": 1,
+      "map_wins": {
+        "Awoken": 1
+      }
+    },
+    "<@436893069271629825>": {
+      "wins": 1,
+      "map_wins": {
+        "Awoken": 1
+      }
+    }
+  },
+  "last_map_played": "Awoken"
+}

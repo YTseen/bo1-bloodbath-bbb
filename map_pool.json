@@ -1,0 +1,56 @@
+{
+  "available_maps": [
+    {
+      "name": "Blood Covenant",
+      "description": "An iconic classic. Bridges, portals, and rocket jumps everywhere.",
+      "script": "covenant_script.cfg"
+    },
+    {
+      "name": "Ruins of Sarnath",
+      "description": "Long corridors and open sightlines \u2014 rail-heavy action.",
+      "script": "ruins_script.cfg"
+    },
+    {
+      "name": "Blood Run",
+      "description": "The Start of All things BLOODBATH!!",
+      "script": "bloodrun_script.cfg"
+    },
+    {
+      "name": "Corrupted Keep",
+      "description": "Shotguns and Heavy Machine Gun... Rockets as well.",
+      "script": "corrupted_script.cfg"
+    },
+    {
+      "name": "Molten Falls",
+      "description": "Massive open areas, a true pain of a map.",
+      "script": "moltenfalls_script.cfg"
+    },
+    {
+      "name": "Tower of Koth",
+      "description": "if only this was a 2v2 tournament.",
+      "script": "koth_script.cfg"
+    },
+    {
+      "name": "Deep Embrace",
+      "description": "Cramped, curved, and cruel. Blood spills quickly here.",
+      "script": "embrace_script.cfg"
+    },
+    {
+      "name": "Insomnia",
+      "description": "Fast-paced with tight turns. Never stop moving!",
+      "script": "insomnia_script.cfg"
+    }
+  ],
+  "used_maps": [
+    {
+      "name": "Vale of Pnath",
+      "description": "Easy traps and vicious choke points.",
+      "script": "vale_script.cfg"
+    },
+    {
+      "name": "Awoken",
+      "description": "The Original, Classic for all Bloodbathers.",
+      "script": "awoken_script.cfg"
+    }
+  ]
+}
