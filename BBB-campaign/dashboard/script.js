@@ -4,7 +4,7 @@ let selectedKey = "";
 
 async function loadQuests() {
   try {
-    const res = await fetch("./data/quest_data.json");
+    const res = await fetch("../quest_data.json");
     questData = await res.json();
     const questList = document.getElementById("questList");
     questList.innerHTML = "";
