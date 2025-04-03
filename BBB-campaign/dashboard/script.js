@@ -4,7 +4,7 @@ let selectedKey = "";
 
 async function loadQuests() {
   try {
-    const res = await fetch("https://raw.githubusercontent.com/YTseen/bo1-bloodbath-bbb/refs/heads/main/BBB-campaign/quest_data.json");
+    const res = await fetch("./quest_data.json");
     questData = await res.json();
     const questList = document.getElementById("questList");
     questList.innerHTML = "";
